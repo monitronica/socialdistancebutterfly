@@ -34,4 +34,4 @@ Connect the Servo motor:
 ![slika](https://github.com/monitronica/socialdistancebutterfly/blob/main/move1.gif)
 ***
 ![slika](https://github.com/monitronica/socialdistancebutterfly/blob/main/dark1.gif)
-![slika]()
+![slika](https://github.com/monitronica/socialdistancebutterfly/blob/main/dark2.gif)
