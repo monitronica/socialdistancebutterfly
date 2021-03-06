@@ -29,7 +29,7 @@ Connect the Servo motor:
 ***
 ![slika](https://github.com/monitronica/RTS_0/blob/main/Wakawaka_bb.jpg)
 ***
-![slika]()
+![slika](https://github.com/monitronica/socialdistancebutterfly/blob/main/front.jpg)
 ![slika]()
 ![slika]()
 ![slika]()
